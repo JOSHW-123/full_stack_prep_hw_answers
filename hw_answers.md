@@ -6,7 +6,7 @@
 
 4.
 
-5.
+5.The process used is a request/response.
 
 6. The optional second argument is an init object, we are making a post request with a promise and resonse.json.
 
