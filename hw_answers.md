@@ -1,18 +1,18 @@
 1. /helpers/create_router.js is responsible for defining the routes of the games resource.
 
-2.Client is responsible for the app/game logic(frontend) and server is responsible for database/data(backend).
+2. Client is responsible for the app/game logic(frontend) and server is responsible for database/data(backend).
 
-3.
+3. This connects our client to our MongoDB database, also listening for port connections.
 
 4.
 
-5.The process used is a request/response.
+5. The process used is a request/response between the client/server.
 
 6. The optional second argument is an init object, we are making a post request with a promise and resonse.json.
 
 7.
 
-8.We are using the driver to connect the app to the MongoDB database and to interact with data.
+8. We are using the driver to connect the app to the MongoDB database and to interact with data.
 
 
 
